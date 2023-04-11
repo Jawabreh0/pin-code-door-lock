@@ -4,7 +4,6 @@ This project is a pin code based door lock system built with an Arduino Uno boar
 ## Hardware Required
 * Arduino board - Uno is a good choice 
 * 4*4 Keypad module
-* Servo motor
 * Breadboard
 * M-M Jumper wires
 * 9V battery (or any 7v -12v power supply)
